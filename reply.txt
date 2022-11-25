@@ -1,0 +1,13 @@
+Hello,
+
+I’m sorry to hear you’re having trouble with our platform. I’ve addressed this issue with 
+our Technical Support team.The solution for your issue is given in this mail.
+
+Issue : {0}
+
+Solution : {1}
+
+Let me know if I can help you with anything else in the meantime.
+Please do not reply to this email, as we are unable to respond from this address 
+
+Thank you for reaching out.
